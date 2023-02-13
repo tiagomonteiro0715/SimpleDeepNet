@@ -1,4 +1,4 @@
-# my-deep-learning-framework
+# SimpleDeepNet
 
 Code from the book grooking deep learning
 
